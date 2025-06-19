@@ -2,7 +2,10 @@
 
 <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image1.gif?raw=true" width="100%" height="300px">
 
-<img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image3.gif?raw=true" >
+<p align="center">
+  <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image3.gif?raw=true" width="69%" height="300px"/>
+  <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image4.gif?raw=true" width="29.5%"/>
+</p>
 
 <a href="https://www.linkedin.com/in/adarsh-nayak-6a97bb2b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN0%2F%2B8RiOQ2%2BOAnvI1M0rHA%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />

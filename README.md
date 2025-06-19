@@ -3,7 +3,7 @@
 <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image1.gif?raw=true" width="100%" height="300px">
 
 <p align="center">
-  <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image3.gif?raw=true" width="69%" height="300px"/>
+  <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image3.gif?raw=true" width="69%" height="290px"/>
   <img src="https://github.com/ADARSH-TKD/ADARSH-TKD/blob/main/image4.gif?raw=true" width="29.5%"/>
 </p>
 
